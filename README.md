@@ -13,6 +13,3 @@ To start your server:
   * Start Phoenix endpoint with `mix phx.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-## Contributing
-Check the [Contribution guide](https://github.com/beamkenya/ex_pesa/blob/develop/contributing.md)
